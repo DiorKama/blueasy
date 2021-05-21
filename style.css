@@ -1,0 +1,114 @@
+.photo{
+	width: 0px;
+	height: 0px;
+	margin-top: -60px;
+}
+nav{
+	opacity: 0.8;
+}
+.navbar-nav{
+	margin-left: 500px;
+}
+.navbar-brand{
+	margin-left: 200px;
+}
+.color{
+	color: #4bcaff;
+}
+.blue{
+	margin-top: 200px;
+}
+.pserv{
+margin-top: -230px;
+color: #ffffff;
+margin-left: 150px;
+font-size: 25px;
+}  
+.para{
+	font-size: 10px;
+}
+.row{
+	margin-left: 140px;
+	color: #ffffff;
+}
+.photo2{
+	margin-left: 0px;
+	margin-top: 30px;
+}
+.milieu{
+	margin-left: 450px;
+	margin-top: 100px;
+}
+.but2{
+	margin-right: 30px;
+	background-color: black;
+	opacity: 0.4;
+	color: white;
+	font-size: 17px;
+} 
+.but1{
+	margin-left: 50px;
+	background-color: black;
+	opacity: 0.4;
+	color: white;
+	font-size: 17px;
+
+}  
+.contact{
+	margin-top: -550px;
+	margin-left: 150px;
+}
+.cont{
+	color: #ffffff;
+	font-size: 25px;
+}
+label{
+	color: #ffffff;
+}
+input{
+	background-color: black;
+	opacity: 0.1;
+	border-color: white;
+	width: 300px;
+}
+textarea{
+	background-color: black;
+	opacity: 0.1;
+	border-color: white;
+	width: 800px;
+	height: 100px;
+}
+
+.form{
+	margin-left: 150px;
+}
+.mes{
+	background-color: #4bcaff;
+	width: 200px;
+	border: none;
+	color: white;
+}
+.text1{
+	margin-left: 520px;
+	margin-top: -340px;
+	color: white;
+	font-size: 11px;
+}
+.footer{
+	margin-top: 230px;
+
+}
+.foot{
+	width: 1320px;
+	height: 100px;
+	background-color: black;
+	opacity: 0.4;
+	border: none;
+}
+.text2{
+	margin-top: -35px;
+	color: white;
+	font-size: 10px;
+	margin-left: 150px;
+
+}
